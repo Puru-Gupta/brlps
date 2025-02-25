@@ -62,7 +62,8 @@ Structured dashboard modules covering:
 - **Oracle & MS SQL**  
 - **SQL**  
 - **Markdown**  
-- **Cron Jobs**  
+- **Cron Jobs**
+- ## Here you can find the Jeevika Dashboard Screenshots
 ![3](https://github.com/user-attachments/assets/97fb152b-163a-4a24-b81e-c44d9f1ba0f9)
 ![4](https://github.com/user-attachments/assets/e3d98f42-3407-4116-ab69-e7f58bb31e20)
 ![5](https://github.com/user-attachments/assets/f3a965f2-36c8-475d-ae32-17f1eb0689b4)
@@ -70,6 +71,7 @@ Structured dashboard modules covering:
 ![6](https://github.com/user-attachments/assets/4a4b5ebc-5e83-41d7-b57d-c8475f64fe9c)
 ![7](https://github.com/user-attachments/assets/6498ab1e-fd00-4c47-be19-c4c7686a6239)
 
+![brlps](https://github.com/user-attachments/assets/f9198105-4826-4447-9d1b-bccc266725fc)
 
 
 
